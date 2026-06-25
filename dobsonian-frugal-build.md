@@ -47,6 +47,58 @@ I hope you find something worthwhile.
 
 ---
 
+## The Canonical Frugal 8″ f/6 — At a Glance
+
+If you just want *the answer* — the single recommended build from this document — here it is. Every pick below is the "workshop pick" from its section. Total structural cost (no optics): **~$95–130**.
+
+| Subsystem | The Pick | Cost |
+|-----------|----------|------|
+| **Ground board laminate** | Melamine shelf board (seal cut edges!) | ~$10 |
+| **Bearing pads (ground)** | HDPE cutting board pads, countersunk screws | ~$2 |
+| **Bearing pads (altitude)** | UHMW adhesive tape, cut to strips | ~$5 |
+| **Tube blackening** | Black gesso, brush-on (no spray booth needed) | ~$10 |
+| **Altitude bearings** | Plywood arcs wrapped in aluminum roof flashing | ~$5 |
+| **Focuser** | Pipe-nipple friction focuser (1½″ ABS coupler + 1¼″ PVC drawtube) | ~$5 |
+| **Mirror cell** | ¾″ plywood back plate, rubber faucet washers as springs, nylon webbing sling, wing nuts | ~$15 |
+| **Spider & secondary hub** | Bicycle spokes (4 vanes) + 1″ hardwood dowel cut at 45° | ~$5 |
+| **Finder** | Peep-sight rings (two screw eyes, in-line on OTA) — or airsoft reflex sight for ~$15 | ~$2 |
+| **Collimation** | Film canister cap with 1.5 mm center hole + binder-paper ring on primary | ~$1 |
+| **Tube (OTA)** | 10″ Sonotube (concrete form), or carpet roll tube if unavailable | ~$0–15 |
+| **Rocker box + ground board** | ½″–¾″ plywood throughout | ~$25 |
+| **Eyepieces** | 32 mm Plössl (used) + 9 mm goldline + 2× Barlow → ~38× to ~270× | ~$60 |
+| **Total (structural)** | | **~$95–130** |
+
+**Key dimensions for an 8″ f/6:**
+
+| Parameter | Value |
+|-----------|-------|
+| Focal length | 1200 mm (~47¼″) |
+| Tube ID (minimum) | 10″ (mirror + 2″) |
+| Tube length | ~44″ (mirror face to secondary, plus cell clearance) |
+| Altitude bearing diameter | 16″–18″ (as large as the rocker box allows) |
+| Rocker box width (inside) | Tube OD + ¼″ clearance each side |
+| Ground board diameter | ~20″ (wider = more stable, but heavier) |
+| Eyepiece height at zenith | ~48″ (varies; build to *your* comfortable standing/sitting height) |
+
+**Build order (don't skip around — dependencies will bite you):**
+
+1. **Source the mirror** — longest lead time. Grind your own (~$60–100 kit) or buy used.
+2. **Build the mirror cell** — back plate, support points, collimation bolts, sling.
+3. **Build the tube** — cut Sonotube to length, mount the cell at one end.
+4. **Mock up the focal plane** — rack an eyepiece in the focuser by hand, mark where the focuser hole goes.
+5. **Mount focuser + spider + secondary** — cut holes, install, align roughly.
+6. **Build altitude bearings** — attach to tube sides at the balance point (tube loaded with eyepiece).
+7. **Build rocker box + ground board** — cut panels, assemble, mount pads.
+8. **First assembly** — set tube in rocker box, check motion, adjust pad placement.
+9. **Collimate** — secondary then primary. Re-check after a night or two.
+10. **Observe** — then tweak. It's never *done*, just ready.
+
+> **The mirror is the elephant.** Everything above totals ~$95–130 and replaces ~$400–600 in commercial parts — but the mirror is separate. A grinding kit (~$60–100) plus a workshop's guidance is the cheapest aperture-per-dollar path. A used 8″ mirror set runs ~$100–200. A new imported set runs ~$150–250. Put your savings from the structure into good glass.
+
+Read on for the detailed alternatives behind each pick — and for situations where you might want to deviate (heavier scope, faster f-ratio, no access to a particular material).
+
+---
+
 ## 1. Rocker Box Bottom (Ground Board Laminate)
 
 **The usual recommendation:** Wilsonart "Ebony Star" laminate (4'×8' sheet, contact cement required). Only ~2' diameter circle needed — the rest is waste.
