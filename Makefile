@@ -21,7 +21,6 @@ $(OUT): $(SRC)
 		--metadata date="$$(date '+%B %Y')" \
 		--toc \
 		--toc-depth=2 \
-		--number-sections \
 		-V geometry:margin=1in \
 		-V fontsize=10pt \
 		-V colorlinks=true \
