@@ -61,7 +61,7 @@ I hope you find something worthwhile.
 | 4 | **HDPE cutting board** | ~$5–10 | Low | Screw onto plywood, no glue. May need two pieced together for larger diameters. Or use as pads only. |
 | 5 | **Sealed + waxed plywood** | ~$3 | Low | Sand to 220, 3–4 coats wipe-on poly, paste wax. Works for scopes ≤8". Try first, upgrade later. |
 
-**Workshop pick:** Melamine shelf board — pre-finished, flat, cheap, no gluing step.
+**Workshop pick:** Melamine shelf board — pre-finished, flat, cheap, no gluing step. The catch is the core: it's particleboard, so any unsealed edge that gets damp swells permanently and never recovers — seal all cut edges and never set the scope down on wet grass. Its surface is also slicker than Ebony Star's pebble finish, which is fine for a ground board but means you'll tune azimuth feel through pad *placement* (see §4D) rather than surface texture.
 
 ### Where to find these
 
@@ -96,7 +96,7 @@ The classic: 1/4″ virgin PTFE sheet, cut into ~1″ squares or circles, counte
 | 4 | **Nylon furniture glides (domed)** | ~$3/pack | ~3/16″ | Pre-made screw-on dome glides. Already have a nail hole. The dome shape gives a small contact area, which reduces stiction. Screw right on. |
 | 5 | **PVC trim board scrap** | ~free | 1/4″–3/4″ | PVC lumber offcuts (e.g. AZEK or Veranda trim) sand smooth. Higher friction than PTFE but surprisingly usable, especially waxed. |
 
-**Workshop pick:** HDPE cutting board pads — $2 yields enough for a dozen scopes, cuts easily with a wood saw, and you can pre-drill and countersink with standard wood bits.
+**Workshop pick:** HDPE cutting board pads — $2 yields enough for a dozen scopes, cuts easily with a wood saw, and you can pre-drill and countersink with standard wood bits. Be honest about the tradeoff: HDPE has noticeably more stiction than virgin PTFE, so the scope takes a slightly firmer initial nudge, and it can cold-flow (dent) under a point load over years. Neither matters much at 6″–8″, but for a heavy scope spend the money on real PTFE.
 
 ### Part B: Cradle / Altitude Bearing Pads (thin, screw-free or hidden screws)
 
@@ -113,7 +113,7 @@ The classic: 1/8″ PTFE sheet, contact-cemented or epoxied to the rocker box. S
 | 7 | **PVC trim + VHB tape** | ~$3 | 1/4″ | VHB tape | Thin PVC lumber offcut, sanded smooth, attached with VHB foam tape. Removable but strong. Tape adds ~1 mm, so pick the thinnest PVC you can find. |
 | 8 | **Aluminum soda can + epoxy** | ~free | ~0.1 mm | Epoxy or contact cement | Cut flat strips from soda cans. The aluminum is naturally low-friction against laminate when sanded smooth. Can layer to build thickness. Fragile, but zero cost. |
 
-**Workshop pick:** UHMW adhesive tape for simplicity — no glue, no screws, just cut and stick. For a truly zero-cost option, report cover plastic + contact cement.
+**Workshop pick:** UHMW adhesive tape for simplicity — no glue, no screws, just cut and stick. For a truly zero-cost option, report cover plastic + contact cement. The catch with any thin tape is that it telegraphs whatever is underneath — a single grain of grit or a high spot becomes a bump you feel on every pass — so the substrate must be dead flat and spotless, and watch that the adhesive doesn't creep in summer heat and let the strip wander.
 
 ### Adhesives that work (no specialty contact cement)
 
@@ -184,7 +184,7 @@ Spraying a long enclosed cylinder is harder than it looks. Overspray bounces bac
 | 4 | **Black tempera + liquid dish soap** | ~$3 | Drugstore/walmart. Tempera soaks into cardboard tubes well. Add 3 drops of dish soap per oz to break surface tension (prevents beading). Only works on absorbent surfaces (Sonotube/cardboard), not metal. |
 | 5 | **India ink** | ~$5/bottle | Art supply. Brush onto cardboard — it's carbon-black pigment in a water-soluble binder. No sheen. Dries fast. Cheap per tube. Only for cardboard. |
 
-**Brush-on pick:** Black gesso — goes on smooth, exceptionally flat, available at Michael's/Hobby Lobby, works on cardboard and metal both.
+**Brush-on pick:** Black gesso — goes on smooth, exceptionally flat, available at Michael's/Hobby Lobby, works on cardboard and metal both. On metal it's only as good as the prep, though: gesso is water-based and will peel from slick aluminum unless you first scuff it to a dull tooth with a maroon Scotch-Brite pad. On cardboard it grips with no fuss.
 
 ### C. No-Paint / Lining Options
 
@@ -196,7 +196,7 @@ Spraying a long enclosed cylinder is harder than it looks. Overspray bounces bac
 | 4 | **Black duct tape / gaffer tape** | ~$6/roll | Spiral-wrap the interior. Gaffer tape is better (non-reflective cloth texture) but costlier. Duct tape works in a pinch — some brands are matte enough. |
 | 5 | **Flocking powder + adhesive** | ~$10 | Model/train shop or craft store. Paint the tube with black adhesive or varnish, puff electrostatic flocking powder onto it. Messy but extremely effective. |
 
-**Lining pick:** Self-adhesive velvet flocking — zero cure time, no fumes, no cleanup, and arguably *better* optically than any paint surface.
+**Lining pick:** Self-adhesive velvet flocking — zero cure time, no fumes, no cleanup, and arguably *better* optically than any paint surface. Two gotchas: the adhesive can release in a hot car, and loose fibers will migrate onto the primary if the tube ever sits pointing down — give a freshly flocked tube a thorough vacuuming and a few sharp taps before first light.
 
 ### Comparison Matrix
 
@@ -211,6 +211,8 @@ Spraying a long enclosed cylinder is harder than it looks. Overspray bounces bac
 | Construction paper + spray glue | ~$5 | 30 min | Medium | ★★★ | All |
 
 **Workshop recommendation:** Black gesso for brush-on (no spray booth, forgiving, very flat), or velvet flocking for best results with zero mess.
+
+> **Watch out:** A flat-black tube wall is rarely the real contrast killer. The two worst offenders are usually a shiny focuser drawtube (paint or flock the inside of *it* too) and the bare tube wall directly opposite the focuser, which the eyepiece looks straight at. A single well-placed flat-black baffle — or just a patch of flocking on that opposite spot — does more for contrast than repainting the whole tube.
 
 ---
 
@@ -233,7 +235,7 @@ The cost issues: laminating curved edges is fussy, Ebony Star again, and the bea
 | 5 | **Plywood arc + PET soda bottle strips** | ~free | Cut 2-liter soda bottles into 1½″-wide strips. The PET plastic is naturally very low friction. Attach with VHB tape or small flat-head nails along the arc. |
 | 6 | **Plywood arc + bare, sealed, and waxed** | ~$2 | Sand the plywood edge smooth, seal with 3 coats of polyurethane, buff with paste wax. Works for small scopes (≤6″). Friction breaks in after a few sessions. |
 
-**Arc bearing pick:** Aluminum flashing — cheap, conforms to the curve, no laminating skills needed, one roll does several scopes.
+**Arc bearing pick:** Aluminum flashing — cheap, conforms to the curve, no laminating skills needed, one roll does several scopes. Bare aluminum isn't set-and-forget, though: it oxidizes to a slightly grippy matte over a few weeks so its friction creeps upward, and it can gall and leave black marks on PTFE pads. A wipe of paste wax, re-done each season, keeps it slick and stops the transfer.
 
 ### B. Small Trunnions / Hub Bearings (no large arcs)
 
@@ -248,7 +250,7 @@ Instead of large arcs, use small cylindrical hubs that ride on the rocker box pa
 | 5 | **Hardwood dowel + PVC sleeve** | ~$4 | A 1″ hardwood dowel through the OTA, with a short PVC pipe sleeve over each end as the bearing surface. Simple, lightweight, good for 4.5″–6″ scopes. |
 | 6 | **Toilet flange bolts + nylon washers** | ~$3 | For tabletop Dobsonians. A pair of ¼″ bolts through the tube with nylon washers stacked to ~1″ diameter. Tiny bearing area but functional at very small scale. |
 
-**Small trunnion pick:** PVC end caps — one-step solution, no cutting, predrilled center for bolt, consistent diameter, available everywhere.
+**Small trunnion pick:** PVC end caps — one-step solution, no cutting, predrilled center for bolt, consistent diameter, available everywhere. The hidden cost of a small-diameter bearing is that it gives the pads little leverage (see §4D), so the scope becomes far more sensitive to balance — swap a heavy eyepiece for a light one and it can tip. Plan on a sliding balance weight or a stick-on counterweight if your eyepieces vary much in mass.
 
 ### C. Lazy Susan / Ring Bearing (alternative motion design)
 
@@ -263,6 +265,12 @@ Instead of trunnions, mount the OTA on a lazy Susan bearing ring — the whole t
 ### D. Friction Adjustment (the real problem)
 
 Whatever bearing material you pick, the hard part is getting the right *feel* — smooth motion with no stiction, and enough resistance that the scope stays pointed when you let go (even at low altitudes near the horizon).
+
+**A few numbers worth knowing.** Most of the "feel" comes down to three things you can actually compute or measure:
+
+- **Pad pressure.** PTFE and its substitutes slide best at roughly **10–15 psi** of contact pressure. Counterintuitively, *more* pad area (or more pads) lowers the pressure and makes motion *stickier*, not smoother — this is the most common beginner mistake. Add up the moving weight, divide by total pad area, and aim for that range; if it's sticky, make the pads *smaller*, not bigger.
+- **Bearing size.** Bigger altitude bearings are almost always better. A larger radius gives the pads more leverage against the friction torque, so motion is smoother and the scope holds its position more willingly. Make the altitude bearing diameter as large as the rocker box reasonably allows — for an 8″ scope that's typically in the 12″–18″ range.
+- **Balance over the axis.** Put the altitude bearing axis at the tube's balance point, loaded with the eyepiece you actually use. Everything below is just trimming around a scope that's already close to balanced.
 
 **Cheap friction-tuning tricks:**
 
@@ -314,7 +322,9 @@ Whatever the focuser design, you need to hold the eyepiece securely.
 | 2 | **Copper pipe coupler** | ~$5 | A 1¼″ copper slip coupling is almost exactly the right ID for an eyepiece barrel. Solder a small brass nut over a drilled hole for a nylon thumb-lock screw. |
 | 3 | **Film canister (for 1.25″)** | ~free | Some 35mm film canisters are a near-perfect fit for 1.25″ eyepieces. Cut off the bottom. Press-fit into the focuser drawtube. |
 
-**Focuser workshop pick:** Pipe-nipple friction focuser. $5, 30 minutes, zero special tools, and it holds collimation well enough for visual use up to ~150×.
+**Focuser workshop pick:** Pipe-nipple friction focuser. $5, 30 minutes, zero special tools, and it holds collimation well enough for visual use up to ~150×. Its honest limits: a friction tube shifts focus when you let go and creeps under gravity when the scope tilts toward the horizon, and it's coarse above ~150× where a hair of movement throws you out of focus. If you observe a lot at high power, jump to the helical or printed Crayford.
+
+> **Watch out:** Before committing to any focuser, mock up the focal plane. A Newtonian only reaches focus over a small range of drawtube travel, and a focuser base that's too tall — common with a bulky DIY mount — can leave you unable to reach focus at all. Rack a known eyepiece in by hand and confirm you hit focus with travel to spare *before* gluing anything down.
 
 ---
 
@@ -335,7 +345,7 @@ Holds the mirror securely without pinching, allows collimation adjustment, and (
 | 5 | **Wing nuts instead of knurled knobs** | ~$2/pack | Wing nuts at the hardware store. Add a nylon washer under the wing nut for smoother turning. No specialty knobs needed. |
 | 6 | **Plastic bottle caps as thumb knobs** | free | Epoxy a bolt head into a bottle cap (Gatorade caps are good). Instant knurled knob with good grip. |
 
-**Spring pick:** Rubber faucet washers — no corrosion, consistent tension, available everywhere, no cutting required.
+**Spring pick:** Rubber faucet washers — no corrosion, consistent tension, available everywhere, no cutting required. The tradeoff is creep and temperature sensitivity: rubber takes a compression set over months and stiffens in the cold, so collimation drifts a little between a hot July and a frosty January. Just re-check it seasonally, which you should do anyway.
 
 ### B: Mirror Clips & Edge Support
 
@@ -347,7 +357,9 @@ Holds the mirror securely without pinching, allows collimation adjustment, and (
 | 4 | **Webbing strap sling (edge support for ≥8″)** | ~$3 | Nylon webbing (from camping/backpacking section) — a 1″ strap with one end screwed to each side of the cell. The mirror rests in the U-shaped hammock. Better than any rigid edge contact. |
 | 5 | **Old leather belt sling** | ~free | Same principle as webbing. An old belt, cut to length. Softer than nylon, won't scratch. |
 
-**Edge support pick:** Nylon webbing sling — $3 at any outdoor/hardware store, proper engineering, works for any scope 8″+.
+**Edge support pick:** Nylon webbing sling — $3 at any outdoor/hardware store, proper engineering, works for any scope 8″+. One subtlety makes or breaks it: the sling must support the mirror in the plane of its center of gravity (wrap the *back* half of the rim, not the front edge), or it pulls the face into astigmatism. And a sling only helps near the horizon — it does nothing when the scope points up, which is fine.
+
+> **Watch out:** A flat 3-point back support is good only to about 8″–10″. Past that the mirror flexes under its own weight between the points and needs a 9- or 18-point floating cell (a job the 3D-printed cell in §11 does cheaply). Don't scale the simple recipe up to a 12″ and expect round stars.
 
 ### C. The Whole Cell: Frugal Build Recipe
 
@@ -383,7 +395,7 @@ The spider holds the secondary mirror at 45° in the center of the tube, with as
 | 6 | **Wooden dowels (3-vane)** | ~$2 | Three 1/8″ dowels at 120°. Thicker than wire = more diffraction, but rigid enough that you don't need tensioning. Paint flat black. |
 | 7 | **Bicycle spokes** | ~$2 (bike shop) | Stainless steel, threaded on one end, perfectly straight, very high tension. One spoke = one vane. Use the factory nipple as a tensioner. |
 
-**Vane pick:** Bicycle spokes — pre-threaded, stainless, tensionable with the included nipple, free from any bike shop's scrap bin.
+**Vane pick:** Bicycle spokes — pre-threaded, stainless, tensionable with the included nipple, free from any bike shop's scrap bin. Round wire spreads its diffraction into a soft halo rather than four hard spikes — many people prefer that — but it must be drawn genuinely tight or it will buzz and let the secondary wander. The spoke nipple gives you the tension, so use it.
 
 ### B. Secondary Hub (holds the diagonal mirror at 45°)
 
@@ -394,7 +406,7 @@ The spider holds the secondary mirror at 45° in the center of the tube, with as
 | 3 | **Threaded rod + nut + fender washer** | ~$3 | 1/4″-20 threaded rod through the center of the secondary, with a rubber washer and a wing nut for tilt adjustment. Very adjustable, a bit crude-looking. |
 | 4 | **Electrical conduit nut / lock ring** | ~$2 | The thin stamped metal nuts from electrical fittings. The right size makes a good mirror cell rim. Soft enough to bend for tilt adjustments. |
 
-**Hub pick:** Hardwood dowel cut at 45° — simplest possible, near-zero cost, and lets you fine-tune rotation by turning the whole spider before locking it down.
+**Hub pick:** Hardwood dowel cut at 45° — simplest possible, near-zero cost, and lets you fine-tune rotation by turning the whole spider before locking it down. Just know that a glued-on secondary can only be aimed by rotating and shimming the whole spider, with no independent tilt — fine at f/6 and slower, fiddly faster. On a fast scope (f/5 or below) you'll also want the secondary *offset* slightly toward the primary and away from the focuser, which a one-piece dowel hub makes awkward to do precisely.
 
 ### C. Secondary Mirror Adhesive
 
@@ -414,7 +426,7 @@ You need a low-power aiming device. A commercial finder scope or Telrad is $30�
 | 4 | **Reflex sight from airsoft/paintball** | ~$15 | Airsoft shops sell cheap red dot reflex sights that work identically to a Telrad. 1×, zero magnification, red reticle. Already has a mounting rail. |
 | 5 | **Construction laser level** | ~$12 | A small line laser on a pivoting bracket. Overkill but fun — projects a visible line across the sky. |
 
-**Finder pick:** Peep-sight rings for absolute zero cost; cheap airsoft reflex sight for the Telrad experience at 1/3 the price.
+**Finder pick:** Peep-sight rings for absolute zero cost; cheap airsoft reflex sight for the Telrad experience at 1/3 the price. Both are zero-power, so they only get you to stars you can already see by eye — under light-polluted skies where the target star is invisible, they're frustrating, and you'll lean on a low-power wide-field eyepiece to star-hop the last few degrees.
 
 ---
 
@@ -425,11 +437,11 @@ You need a basic set to align the optics. A laser collimator is $30–60; a Ches
 | # | Option | Cost | Notes |
 |---|--------|------|-------|
 | 1 | **Film canister collimation cap** | ~free | Classic DIY. Drill a 1–2 mm hole exactly in the center of a 35mm film canister cap. Place on the focuser. Your eye centered behind the hole. Works surprisingly well. |
-| 2 | **Plumbing Cheshire** | ~5 | A short piece of chrome-plated brass sink drain pipe (1¼″), cut at 45° inside a PVC body. The shiny interior acts as the reflective surface. Add a crosshair at one end. |
+| 2 | **Plumbing Cheshire** | ~$5 | A short piece of chrome-plated brass sink drain pipe (1¼″), cut at 45° inside a PVC body. The shiny interior acts as the reflective surface. Add a crosshair at one end. |
 | 3 | **LED + battery DIY cheshire** | ~$6 | Add a red LED and watch battery to the plumbing Cheshire for illuminated reticle. Even easier to see the doughnut. |
 | 4 | **Reflective tape donut** | ~$2 | Instead of a Cheshire, put a ring of reflective tape or a binder-paper reinforcement ring on the primary mirror center for the collimation cap to target. |
 
-**Collimation pick:** Film canister cap + binder-paper reinforcement ring on the primary. Total cost ~$0.50, effective for f/6 and slower.
+**Collimation pick:** Film canister cap + binder-paper reinforcement ring on the primary. Total cost ~$0.50, effective for f/6 and slower. It sets the center spot and secondary rotation well, but a simple cap can't precisely confirm the secondary is centered under the focuser or square up a fast scope's axes — below about f/5 the cheap laser (now ~$15–20) earns its keep. Sight-tube first, laser to confirm.
 
 ---
 
@@ -450,7 +462,7 @@ The optical tube assembly holds the primary mirror at one end and the focuser/sp
 | 5 | **Fabric store bolt tube** | free–$5 | Joann, Michaels, fabric stores. Large fabric bolts ship on heavy cardboard tubes. Usually 2″–3″ diameter (good for finders or tabletop scopes) but occasionally wider. |
 | 6 | **Fiberglass septic tank riser** | ~$20–30 | Specialty but interesting — a short length of fiberglass riser from a septic supply. Waterproof, rot-proof, needs no painting. Heavy. |
 
-**Cardboard pick:** Sonotube if available, carpet roll tube if not — free for the asking, very thick wall.
+**Cardboard pick:** Sonotube if available, carpet roll tube if not — free for the asking, very thick wall. Cardboard's enemy is humidity: it's hygroscopic, so an unsealed tube slowly absorbs moisture, goes soft, drifts out of round, and can mold in a damp climate. Seal it inside *and* out — paint or thinned varnish on both faces and the end grain — and it'll last decades; leave it raw and it won't survive many wet seasons.
 
 ### B. Solid (Non-Tubular) Designs — Wooden Box
 
@@ -460,7 +472,7 @@ A square or octagonal plywood box instead of a round tube. Easier to mount hardw
 |---|--------|------|-------|
 | 1 | **Square plywood box** | ~$15–20 | 4 rectangles of 1/2″ plywood, butt-jointed. The square cross-section is wider than a tube but makes focuser and spider mounting trivial. Add triangular corner blocks inside for stiffness. |
 | 2 | **Open-back box (3-sided)** | ~$10 | Three sides closed, the bottom side open (or mostly open). Lighter, still rigid. Good for the upper half of a truss scope. |
-| 3 | **Octagonal box** | ~$20–25 | 8 narrow strips of 1/4″ plywood, beveled edges, taped and glued. Lighter than square, closer to a cylinder. Faner to make. |
+| 3 | **Octagonal box** | ~$20–25 | 8 narrow strips of 1/4″ plywood, beveled edges, taped and glued. Lighter than square, closer to a cylinder. Fancier to make. |
 | 4 | **Hardboard (Masonite) rolled tube** | ~$8 | Two layers of 1/8″ tempered hardboard, soaked in water, rolled around a form, glued and clamped until dry. Makes a custom-diameter tube for pennies. Takes practice. |
 
 **Box pick:** Square plywood box — flat faces are a gift for mounting hardware, and it builds with a circular saw and glue. No tube-hunting required.
@@ -510,7 +522,9 @@ If the tube interior is too shiny or the tube is oversized (common: 10″ tube f
 
 A 3D printer (even a basic $200 FDM printer) opens up precision parts that would otherwise require machining or expensive commercial components. Many libraries and makerspaces now have printers available for public use at near-zero cost. If one person in the workshop has a printer, they can produce parts for everyone.
 
-**Filament notes:** PLA is fine for everything listed here — no need for ABS, PETG, or exotic materials. PLA is rigid enough, easy to print, and the black/dark colors are already low-reflectivity. Parts should be printed at 3–4 perimeters and 20–30% infill for structural stiffness.
+**Filament notes:** PLA is fine for most of what's listed here — it's rigid, easy to print, and the black/dark colors are already low-reflectivity. Print structural parts at 3–4 perimeters and 20–30% infill.
+
+> **Watch out:** "PLA is fine" has one real exception — heat. PLA starts to soften around 50–60 °C (120–140 °F), and the inside of a closed car on a sunny day, or a black scope baking in direct sun, can reach that. A load-bearing PLA part (focuser, mirror cell, bearing arc) can slowly sag or creep under sustained stress in those conditions. For anything that's *both* load-bearing and might get hot, print in PETG or ASA instead; PLA is genuinely fine for everything that stays cool and for all the non-structural parts.
 
 ### A. What's Worth Printing
 
@@ -558,3 +572,53 @@ If no workshop participant owns a printer:
 - **Online print services** — Craftcloud, Shapeways — expensive per part but reasonable for just a spider and focuser (~$20–30 shipped for everything). Compare to the $200+ in commercial parts this replaces.
 
 > **Workshop tip:** If printing is available, the three highest-impact prints are the **focuser**, **spider/secondary hub**, and **altitude bearings**. Together they replace ~$160–$260 in commercial parts for ~$10 in filament and hardware.
+
+---
+
+## 12. Eyepieces
+
+This is where most people *overspend* — it's easy to sink more into glass than into the entire scope. You don't need a boxful. Two or three well-chosen eyepieces plus a Barlow cover the whole useful range.
+
+**The magnification math (so you buy the right focal lengths):** magnification = scope focal length ÷ eyepiece focal length. An 8″ f/6 has a 1200 mm focal length, so a 32 mm eyepiece gives 38×, a 12 mm gives 100×, and a 6 mm gives 200×. Two limits bracket your choices:
+
+- **Lowest useful power** is set by the exit pupil (eyepiece FL ÷ f-ratio). An exit pupil much above ~7 mm spills light past your dilated eye, so on an f/6 the longest sensible eyepiece is around 32–40 mm.
+- **Highest useful power** is roughly **2× the aperture in millimetres** — about 400× for an 8″ — but the atmosphere usually caps real-world use at 250–300×. Buying a 4 mm eyepiece for a "600×" number on the box is wasted money.
+
+A sensible starter set is one low power (~32 mm), one medium-to-high (~12 mm), and a 2× Barlow to double both — four magnifications from two eyepieces.
+
+| # | Option | Cost | Notes |
+|---|--------|------|-------|
+| 1 | **Used Plössls / estate kits** | ~$15–30 ea | The used market (Cloudy Nights classifieds, estate sales, camera shops) is flooded with good 1.25″ Plössls. Patient buying beats any new budget glass. |
+| 2 | **"Goldline / redline" 66° wide-fields** | ~$20–25 ea | Re-badged imports (6/9/15/20 mm) that genuinely punch above their price — wide, sharp on-axis, comfortable eye relief. The best value in budget eyepieces today. |
+| 3 | **Surplus Kellners / Orthoscopics** | ~$10–20 ea | Surplus Shed and similar. Orthos are superb on planets — sharp and high-contrast — with a narrow field, perfect for a Dob if you don't mind nudging often. |
+| 4 | **Zoom eyepiece (8–24 mm)** | ~$50 | One eyepiece covering a range — great for outreach and quick framing. Slightly narrower field and softer edges than fixed glass, but hugely convenient. |
+| 5 | **2× Barlow lens** | ~$20 | Not an eyepiece but a multiplier — doubles the power of everything you own. The cheapest way to "add" eyepieces; a decent one is nearly invisible optically. |
+| 6 | **Dead department-store scope** | ~free | The optics are junk but the bundled 1.25″ eyepieces are often usable Plössls or Kellners. Scavenge the eyepieces, recycle the rest. |
+
+**Workshop pick:** A 32 mm Plössl (finding / widest field), a 9 mm goldline (high power), and a 2× Barlow — about $60–70 covers ~38× to ~270×. Buy used wherever you can.
+
+> **Watch out:** Fast scopes punish cheap eyepieces at the field edge — an f/5 will show coma and edge astigmatism that the same eyepiece hides at f/8. At f/6 and slower, budget glass performs beautifully; at f/4–f/5, spend a little more or accept soft edges. And ignore any 0.965″ ("Japanese standard") eyepieces — that barrel size is long dead; standardize on 1.25″.
+
+---
+
+## 13. Putting It Together: What a Frugal 8″ Costs
+
+Here is where the savings land. The table totals the frugal choices from this document for a typical 8″ f/6, against rough commercial-part prices for the same scope.
+
+| Subsystem | Frugal choice | Frugal cost | Typical commercial |
+|-----------|---------------|-------------|--------------------|
+| Ground board laminate | Melamine shelf board | ~$10 | ~$80 (Ebony Star sheet) |
+| Teflon / bearing pads | HDPE + UHMW tape | ~$5 | ~$20 (virgin PTFE) |
+| Tube blackening | Gesso or flocking | ~$10 | ~$15 |
+| Altitude bearings | Plywood arc + flashing | ~$5 | ~$40 |
+| Focuser | Pipe-nipple friction | ~$5 | ~$80–200 |
+| Mirror cell | Plywood + faucet washers | ~$15 | ~$50 |
+| Spider & secondary hub | Bike spokes + dowel | ~$5 | ~$40–60 |
+| Finder | Peep-sight or airsoft reflex | ~$2–15 | ~$30–60 |
+| Collimation tools | Film-can cap (+ cheap laser) | ~$1–20 | ~$60 |
+| Tube | Sonotube / carpet roll | ~$0–15 | ~$25 |
+| Rocker box + ground board | ½″–¾″ plywood | ~$25 | — |
+| Eyepieces | 2 + a Barlow, bought used | ~$60 | ~$300 |
+| **Total (no optics)** | | **~$90–130** | **~$400–600** |
+
+**The elephant in the room is the mirror.** A telescope's single biggest cost is its optics, and that's the one thing this document doesn't try to cheapen with substitutes — there's no hardware-store stand-in for a good parabola. Your three honest paths are: **grind your own** (a ~$60–100 kit plus a Chabot-style workshop's guidance — by far the cheapest aperture per dollar, and the most rewarding); **buy surplus or used** (a complete used 8″ is often cheaper than the sum of its parts — watch the Cloudy Nights classifieds); or **a cheap imported mirror set** (~$150–250, quality varies). Everything else here is a rounding error next to it — which is exactly why it's worth making the rest cheaply, and putting the money you save toward good glass.
