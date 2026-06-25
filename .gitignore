@@ -1,0 +1,6 @@
+# Build artifact (regenerate with `make`)
+dobsonian-frugal-build.pdf
+
+# Session/tooling artifacts
+.99/
+.99x/
