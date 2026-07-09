@@ -39,9 +39,11 @@ I've been playing with AI lately, so I decided to brainstorm ideas by talking th
 isn't meant to be a definitive reference; it's mostly just the product of an hour of brainstorming. It gave me a
 few genuinely useful ideas for solving certain problems economically, and perhaps it will be of some use to you.
 
-This work is entirely in the public domain.  Feel free to reproduce it and use it as you see fit.  No warranty
-is implied or granted.  If you use some of these ideas and your telescope breaks in half, the only thing I can say
-is that you get to keep both halves.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Feel free to share and adapt it for non-commercial
+purposes, with attribution, so long as you pass it along under the same terms.  No warranty is implied or granted.
+If you use some of these ideas and your telescope breaks in half, the only thing I can say is that you get to keep
+both halves.
 
 I hope you find something worthwhile.
 
