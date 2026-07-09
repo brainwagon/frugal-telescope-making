@@ -1,0 +1,193 @@
+/* Frugal Telescope Making — web stylesheet.
+   A clean, document-like single column that mirrors the feel of the PDF and
+   reads comfortably on phones and desktops, in light or dark mode. */
+
+:root {
+  --measure: 46rem;
+  --fg: #1c1a17;
+  --muted: #5c554c;
+  --bg: #fbfaf7;
+  --surface: #f2efe8;
+  --border: #d9d3c8;
+  --accent: #8a5a2b;
+  --accent-fg: #6f4620;
+  --row-alt: #f5f2eb;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #e7e2d8;
+    --muted: #a49c8d;
+    --bg: #17150f;
+    --surface: #211e16;
+    --border: #35301f;
+    --accent: #d9a35f;
+    --accent-fg: #e6b878;
+    --row-alt: #1d1a12;
+  }
+}
+
+html {
+  font-size: 18px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0 auto;
+  max-width: var(--measure);
+  padding: 2.5rem 1.25rem 6rem;
+  color: var(--fg);
+  background: var(--bg);
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+  line-height: 1.65;
+  font-kerning: normal;
+}
+
+/* Title block emitted by pandoc's standalone template. */
+header#title-block-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 3px double var(--border);
+}
+
+h1.title {
+  font-size: 2.1rem;
+  line-height: 1.15;
+  margin: 0 0 0.5rem;
+}
+
+p.author,
+p.date {
+  margin: 0.15rem 0;
+  color: var(--muted);
+  font-style: italic;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
+  font-weight: 700;
+  scroll-margin-top: 1rem;
+}
+
+h2 {
+  margin-top: 2.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 1.55rem;
+}
+
+h3 { margin-top: 2rem; font-size: 1.25rem; }
+h4 { margin-top: 1.5rem; font-size: 1.05rem; }
+
+a {
+  color: var(--accent-fg);
+  text-decoration-color: var(--border);
+  text-underline-offset: 2px;
+}
+a:hover { text-decoration-color: var(--accent); }
+
+/* "Download PDF" banner (HTML only). */
+.download-banner {
+  margin: 0 0 1.5rem;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.9rem;
+}
+.download-banner a {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.download-banner a:hover { border-color: var(--accent); }
+
+/* Table of contents. */
+nav#TOC {
+  margin: 2rem 0 3rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+nav#TOC::before {
+  content: "Contents";
+  display: block;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+}
+nav#TOC ul { list-style: none; margin: 0; padding-left: 1rem; }
+nav#TOC > ul { padding-left: 0; }
+nav#TOC a { text-decoration: none; }
+nav#TOC a:hover { text-decoration: underline; }
+
+/* Tables — the heart of this document. */
+.table-wrap, table { max-width: 100%; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.75rem 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.86rem;
+  line-height: 1.45;
+  display: block;
+  overflow-x: auto;
+}
+thead th {
+  text-align: left;
+  vertical-align: bottom;
+  background: var(--surface);
+  border-bottom: 2px solid var(--accent);
+  padding: 0.5rem 0.7rem;
+}
+tbody td {
+  vertical-align: top;
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--border);
+}
+tbody tr:nth-child(even) { background: var(--row-alt); }
+
+/* Code & preformatted. */
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.85em;
+  background: var(--surface);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+pre {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.15rem;
+  overflow-x: auto;
+}
+pre code { background: none; padding: 0; }
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.25rem 1.25rem;
+  border-left: 4px solid var(--accent);
+  color: var(--muted);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+img { max-width: 100%; height: auto; }
+
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  body { padding: 1.5rem 1rem 4rem; }
+}

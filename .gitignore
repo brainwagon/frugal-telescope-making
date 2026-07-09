@@ -1,5 +1,7 @@
-# Build artifact (regenerate with `make`)
+# Build artifacts (regenerate with `make`)
 dobsonian-frugal-build.pdf
+.clean.md
+site/
 
 # Session/tooling artifacts
 .99/
